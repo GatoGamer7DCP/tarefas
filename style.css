@@ -1,0 +1,32 @@
+:root {
+    --background: #ffffff;
+    --surface: #ffffff;
+    --primary: #ffffff;
+    --secondary: #ffffff;
+    --text: #000000;
+    --muted: #000000;
+}
+body {
+    margin: 0;
+    font-family: "Oxanium", sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+}
+h1 {
+    color: #000000;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 20px;
+}
+h3 {
+    color: #000000;
+    font-size: 2.0rem;
+    text-align: center;
+    margin-top: 20px;
+}
+p {
+    color: #000000;
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 20px;
+}
